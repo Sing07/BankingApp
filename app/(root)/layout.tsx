@@ -1,4 +1,4 @@
-import MobileNavbar from "@/components/MobileNavbar";
+import MobileNavbar from "@/components/MobileNav";
 import SideBar from "@/components/SideBar";
 import type { Metadata } from "next";
 import { Inter, IBM_Plex_Serif } from "next/font/google";
